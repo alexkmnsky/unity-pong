@@ -1,0 +1,33 @@
+{
+    "name": "UI",
+    "maps": [
+        {
+            "name": "UI",
+            "id": "511a2577-1577-4bb2-8f16-2bcd1f8a17ef",
+            "actions": [
+                {
+                    "name": "Start",
+                    "type": "PassThrough",
+                    "id": "00f68eec-4cec-4e8c-b8fe-87f39351c8f4",
+                    "expectedControlType": "Key",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "0e4dea2d-c30e-4408-a5ff-9d02ef1e0f13",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Start",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
